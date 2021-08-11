@@ -1,10 +1,14 @@
 # DIO - Projeto Análise de dados com Pandas
 
-### Aplicação das técnicas de análise exploratória de dados usando os recursos das bibliotecas Pandas e  Seaborn para apresentar  algumas características das olimpíadas Tokyo 2020 como distribuição de homens e mulheres por esporte, qual país teve o maior percentual de medalhas por  delegação e tc.
-
-### Os dados foram extraídos diretamente do site https://olympics.com/tokyo-2020/en/
+### Aplicação das técnicas de análise exploratória de dados usando os recursos das bibliotecas Pandas e Seaborn para apresentar o comportamento da temperatura média de grandes cidades ao redor do mundo. Vamos verificar insights como a sazonalidade das variações de temperatura, as cidades com maior variação de temperatura ao longo dos anos e as regiões com maior ganho de temperatura
 
 
+
+**Fonte dos dados: https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities**
+
+
+
+## Sumário
 
 1. ### Importar dados e verificação de consistência
 
